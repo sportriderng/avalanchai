@@ -25,9 +25,9 @@ We are simply building the next performance ready AI infrastructure on Avax used
 ## Technicals
 
 <p align="center">
-  <img src="https://github.com/ukangaekom/orcinus/blob/main/public/SOA.jpg" alt="Agent Image" width="800" style="max-width: 100%;">
+  <img src="https://github.com/ukangaekom//blob/main/public/SOA.jpg" alt="Agent Image" width="800" style="max-width: 100%;">
 </p>
-The Archictecutral diagram describe the process of data flow of data from request to response in Avalanche Orcinus. The following are the meaning of the abbreviations in the architecture.
+The Archictecutral diagram describe the process of data flow of data from request to response in Avalanche . The following are the meaning of the abbreviations in the architecture.
 
 ```
 1. PA - Processing Agent
@@ -73,7 +73,7 @@ structure in the `src` file.
 > *While your blockchain explorers provide a traditional explorer data experience for one address at a time, avax agent can provide a summary report of data for multiple address at one chat. We made user experience better across Avalanche ecosystem through our api😎.*
 
 2. ### Education👨‍🎓👩‍🎓:
-  Avalanche AvaxGPT can also be used as an educational tool. Imagine having a social media bot e.g twitter, discord, whatsapp, telegram or a web bot in the Avalanche explorer. Using Avalanche orcinus api automatically turns your bot to an agent able to educate your users on Avalanche ecosystem.
+  Avalanche AvaxGPT can also be used as an educational tool. Imagine having a social media bot e.g twitter, discord, whatsapp, telegram or a web bot in the Avalanche explorer. Using Avalanche  api automatically turns your bot to an agent able to educate your users on Avalanche ecosystem.
 
 3. ### Market Analytics📈:
   AvaxGPT can also be used for realtime market data analytical report. 
@@ -83,13 +83,13 @@ structure in the `src` file.
   AvaxGPT enables you to get comprehensive market data report for multiple tokens at once 🎉.
 
 **Productivity Hack Tips:**
->*As a user, I will definitely make Avalanche orcinus my daily sidekid for anything on Avalanche ecosystem knowing I have everything I need to be productive in one api endpoint which I can integrate to any of my favourite workspace, social media platform or dashboard platform🤔*
+>*As a user, I will definitely make Avalanche  my daily sidekid for anything on Avalanche ecosystem knowing I have everything I need to be productive in one api endpoint which I can integrate to any of my favourite workspace, social media platform or dashboard platform🤔*
 
 4. ### Onchain data Fetching:
-AvaxGPT api operates onchain and off-chain. Apart from fetching off-chain market data, You can use Avalanche orcinus to get onchain information of wallets, smart contracts, NFTs and NFT tokens.
+AvaxGPT api operates onchain and off-chain. Apart from fetching off-chain market data, You can use Avalanche  to get onchain information of wallets, smart contracts, NFTs and NFT tokens.
 
 **Experience:**
->*Users don't have to follow a structural prompt or technique to index data. Just express yourself and Avalanche Orcinus knows what to do!*
+>*Users don't have to follow a structural prompt or technique to index data. Just express yourself and Avalanche  knows what to do!*
 
 
 

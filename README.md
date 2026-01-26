@@ -97,13 +97,13 @@ AvaxGPT api operates onchain and off-chain. Apart from fetching off-chain market
 
 
 <p align="center">
-  <img src="./public/Avax_gpt test.png" alt="Agent Image" width="800" style="max-width: 100%;">
+  <img src="./public/avalanchai_demo_1.png" alt="Agent Image" width="800" style="max-width: 100%;">
 </p>
 
 
 2. **Getting the real-time market price or capitalization of a token or multiple tokens**
 <p align="center">
-  <img src="./public/Avaxgpt test.png" alt="Agent Image 2" width="800" style="max-width: 100%;">
+  <img src="./public/avalanchai_demo_2.png" alt="Agent Image 2" width="800" style="max-width: 100%;">
 </p>
 
 

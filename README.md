@@ -1,4 +1,4 @@
-# Avalanchai GPT 
+# Avalanchai GPT #RustAfricaHackathon
 
 
 

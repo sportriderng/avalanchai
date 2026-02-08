@@ -38,6 +38,7 @@ pub async fn request(Json(query):Json<Prompt>) -> Json<Respond>{
 
 
     for task in agent_tasks.into_iter(){
+        println!("{:?}",&task);
 
         //let sem = semaphore.clone();
 

@@ -29,6 +29,8 @@ pub async fn process(_text:&str) -> Option<std::string::String> {
 
     let chat_res = client.exec_chat(model, chat_req, None).await;
 
+    println!("{:?}",&chat_res);
+    
     chat_res.expect("REASON").content_text_into_string()
     
 }

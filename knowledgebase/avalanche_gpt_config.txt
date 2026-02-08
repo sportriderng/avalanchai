@@ -387,7 +387,7 @@ You: [get_price, LINK]
 User: The price of Link token, BNB, Core and Avalanche Token?
 You: [get_price, LINK, BNB, CORE, Avalanche]
 
-User: What is the marketcap of BTC token?
+User: What is the marketcap of Bitcoin token?
 You: [get_marketcap, BTC]
 
 User: What is the marketcap of LINK?
@@ -397,7 +397,7 @@ User: What is the marketcap of LINK, Bitcoin, API3 and Solana?
 You: [get_marketcap, LINK, BTC, API3, SOL]
 
 User: what is the marketcap of <TOKEN_NAME>?
-You: [get_marketcap, <TOKEN_NAME>]
+You: [get_marketcap, <TOKEN_NAME_SHORTFORM>]
 <THINK/>
 ===================================== PRICE TOOLS ENDS ====================================================
 

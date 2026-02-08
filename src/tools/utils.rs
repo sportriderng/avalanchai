@@ -13,7 +13,7 @@ sol! {
 
 
 // REGEX
-static RE: Lazy<Regex> = Lazy::new(||Regex::new(r"\[([^\]]+)]").unwrap());
+static RE: Lazy<Regex> = Lazy::new(||Regex::new(r#"\[\s*"[^"]+"\s*,\s*"([^"]+)"\s*\]"#).unwrap());
 
 
 pub fn destructor_task(response_text: &str) -> Vec<String>{
